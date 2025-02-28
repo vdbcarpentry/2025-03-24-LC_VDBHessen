@@ -319,7 +319,7 @@ Participation fee: 60 EUR for members of VDB, BIB or similar, 120 EUR for others
 <p class="text-center">
 <a href="https://www.vdb-online.org"> 
    <img src="https://raw.githubusercontent.com/evamarik/2019-11-frankfurt/gh-pages/img/VDB_Logo_RGB_400px.jpg" alt="VDB" height="100"/>
- </a><br/>
+ </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   
   
@@ -331,7 +331,7 @@ Participation fee: 60 EUR for members of VDB, BIB or similar, 120 EUR for others
   
  <a href="https://www.deutsches-museum.de">
    <img src="https://upload.wikimedia.org/wikipedia/de/8/86/Deutsches_Museum_Logo.svg" alt="Deutsches Museum" height="100"/>
- </a>&nbsp;&nbsp;<br/>
+ </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
  
 <a href="https://uni-tuebingen.de/">
