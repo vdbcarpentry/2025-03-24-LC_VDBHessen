@@ -307,7 +307,7 @@ Participation fee: 60 EUR for members of VDB, BIB or similar, 120 EUR for others
 
 
 <p id="contact">
-  <strong>Registration/Contact</strong>: Please register via email until 19.03.2025: <a href="mailto:lv.hessen@vdb-online.org">lv.hessen@vdb-online.org</a>. Maximum number of participants: 15.
+  <strong>Registration/Contact</strong>: Please register until 19.03.2025: <a href="https://terminplaner6.dfn.de/b/c2b17ff3f28566510d621769d884a399-1120317">here</a>. Maximum number of participants: 15.
   
 </p>
 <p id="organization">
