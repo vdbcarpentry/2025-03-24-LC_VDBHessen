@@ -3,22 +3,21 @@ layout: workshop      # DON'T CHANGE THIS.
 # More detailed instructions (including how to fill these variables for an
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
-venue: "FIXME"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: "FIXME"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
-country: "FIXME"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
-language: "FIXME"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
-latitude: "45"        # decimal latitude of workshop venue (use https://www.latlong.net/)
-longitude: "-1"       # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "FIXME"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "FIXME"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
-startdate: FIXME      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: FIXME        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["instructor one", "instructor two"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["helper one", "helper two"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-email: ["first@example.org","second@example.org"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
+venue: "Library Carpentry, VDB LV Hessen (Workshops are in German)"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
+address: "online"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+country: "de"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
+language: "de"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
+
+humandate: "March 24-25, 2025"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humantime: "9:00 - 16:30"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
+startdate: 2025-03-24      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2025-03-24         # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+instructor: ["Eva Bunge", "Agnes Brauer", "Markus Wust"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["Jakob Frohmann"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+email: ["a.brauer@ub.uni-frankfurt.de"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+collaborative_notes: folgt # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
-what3words:           # optional: what3words (https://what3words.com) address of the workshop venue, without leading slashes e.g. "globe.lessening.computers"
+
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
@@ -313,9 +312,50 @@ Edit the text to match who can attend the workshop. For instance:
     This workshop is open to ....
 </p>
 {% endcomment %}
+<p id="furtherInfo">
+  <strong>Further information</strong>:
+	
+Participation fee: 60 EUR for members of VDB, BIB or similar, 120 EUR for others. Please transfer your participation fee to VDB Landesverband Hessen, Kreissparkasse Tübingen, IBAN: DE75 6415 0020 0002 9739 77, BIC: SOLADES1TUB. 
+
+</p>
+
+
+<p id="contact">
+  <strong>Registration/Contact</strong>: Please register via email until 21.03.2025: <a href="mailto:lv.hessen@vdb-online.org">lv.hessen@vdb-online.org</a>. Maximum number of participants: 15.
+  
+</p>
+<p id="organization">
+  <strong>Organization:</strong>
+  	The workshop is jointly organized by VDB-Landesverband Hessen and instructors and helpers from Deutsches Museum, Universitätsbibliothek Tübingen and Goethe-Universität.
+</p>
 
 <hr/>
+<p class="text-center">
+<a href="https://www.vdb-online.org"> 
+   <img src="https://raw.githubusercontent.com/evamarik/2019-11-frankfurt/gh-pages/img/VDB_Logo_RGB_400px.jpg" alt="VDB" height="100"/>
+ </a><br/>
 
+  
+  
+  
+   <a href="https://www.ub.uni-frankfurt.de/">
+   <img src="https://wikis.sub.uni-hamburg.de/webis/images/e/eb/30_logo300.gif" alt="UB Frankfurt" height="100"/>
+ </a><br/>
+
+  
+ <a href="https://www.deutsches-museum.de">
+   <img src="https://upload.wikimedia.org/wikipedia/de/8/86/Deutsches_Museum_Logo.svg" alt="Deutsches Museum" height="100"/>
+ </a>&nbsp;&nbsp;<br/>
+
+ 
+<a href="https://uni-tuebingen.de/">
+   <img src="https://upload.wikimedia.org/wikipedia/de/9/9c/UniversitaetTuebingen_WortBildMarke.png" alt="Uni Tübingen" height="100"/>
+ </a>&nbsp;&nbsp;&nbsp;
+
+ 
+
+</p>
+<hr/>
 {% comment%}
 CODE OF CONDUCT
 {% endcomment %}
@@ -461,6 +501,16 @@ please preview your site before committing, and make sure to run
   that may be useful on the
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
+<p>
+  To make it easier to follow the workshop, we provide reference cheat sheets for each lesson:
+  <ul>
+  <li><a href="https://librarycarpentry.org/lc-data-intro/reference">Introduction to Working with Data (Regular Expressions)</a></li>
+  <li><a href="https://librarycarpentry.org/lc-shell/reference">The Unix Shell</a></li>
+  <li><a href="https://librarycarpentry.org/lc-git/reference">Introduction to Git</a></li>
+  <li><a href="https://librarycarpentry.org/lc-open-refine/reference.html">OpenRefine</a></li>
+</ul>
+</p>
+
 
 {% comment %}
 For online workshops, the section below provides:
