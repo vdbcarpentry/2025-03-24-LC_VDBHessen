@@ -338,6 +338,10 @@ Participation fee: 60 EUR for members of VDB, BIB or similar, 120 EUR for others
    <img src="https://upload.wikimedia.org/wikipedia/de/9/9c/UniversitaetTuebingen_WortBildMarke.png" alt="Uni Tübingen" height="100"/>
  </a>&nbsp;&nbsp;&nbsp;
 
+ <a href="https://www.uni-giessen.de/ub/de">
+   <img src="https://www.uni-giessen.de/ub/de/images/ublogo/@@images/image.png" alt="UB Gießen" height="100"/>
+ </a>&nbsp;&nbsp;&nbsp;
+
  
 
 </p>
